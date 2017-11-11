@@ -5,7 +5,7 @@ Simple Push Notification Using FCM which  can send you simple one line push to s
 ## Installation
 
 just clone this project and run application into your device and it ready to use mode.
-For Back-End Server use this : http://demo.androidhive.info/firebase/notifications/
+For Back-End Server use this :[Server] (http://demo.androidhive.info/firebase/notifications/)
 
 ## Usage
 
@@ -23,9 +23,8 @@ use this Server key for send push
 
 ## Credits
 
-1.Firebase Official documents: https://firebase.google.com/docs/cloud-messaging/?authuser=0
-2. Android Hive will give you very good understanding about push notification - automatic!
-[Android Hive](https://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/)
+1.Firebase Official documents: [FireBase] (https://firebase.google.com/docs/cloud-messaging/?authuser=0)
+2. Android Hive will give you very good understanding about push notification : [Android Hive](https://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/)
 
 
 ## License
