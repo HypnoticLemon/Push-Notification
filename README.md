@@ -23,10 +23,8 @@ use this Server key for send push
 
 ## Credits
 
-1.Firebase Official documents: [Fire-Base](https://firebase.google.com/docs/cloud-messaging/?authuser=0)
-
+1. Firebase Official documents: [Firebase](https://firebase.google.com/docs/cloud-messaging/?authuser=0)
 2. Android Hive will give you very good understanding about push notification : [Android Hive](https://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/)
-
 
 ## License
 
