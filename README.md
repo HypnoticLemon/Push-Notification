@@ -13,6 +13,8 @@ use this Server key for send push
 
 `AAAA6uKKjHw:APA91bG66s-leggoqqo1GRhnS2GKC-xCR47XxvoUdBic2_aRaVoC3sy-ss2DzSfHE4Oou0hnyA4JbnkSmpcYyNzuH-RqrV7pO8Onq1JOZMt_ZJJZI-nwk-j9Q5PvrRnv0LoN7llgkXoN`
 
+For Firebase Reg Id Run this application in device and your registration id will print in logcat.
+
 ## Contributing
 
 1. Fork it!
